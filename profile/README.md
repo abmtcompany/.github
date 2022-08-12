@@ -1,12 +1,14 @@
-## Hi there 👋
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg "Java")  
+![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg "React")  
+![Material UI](https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg "Material UI")  
+![Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg "Flutter")  
+![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg "CSS3")  
+![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML5")  
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript")  
+![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg "Firebase")  
+![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg "MySQL")  
+![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg "NodeJS")  
+![AWS](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg "AWS")  
+![](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg "Git")
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abmtcompany&theme=dark)](https://git.io/streak-stats)
